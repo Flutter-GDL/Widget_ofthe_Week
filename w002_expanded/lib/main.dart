@@ -1,3 +1,10 @@
+// Expanded
+//
+// Widget of the Week #2
+//
+// https://youtu.be/_rnZaagadyo
+//
+
 import 'package:flutter/material.dart';
 import 'package:gdl_watermark/gdl_watermark.dart';
 import 'package:google_fonts/google_fonts.dart';

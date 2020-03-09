@@ -1,3 +1,10 @@
+// Opacity
+//
+// Widget of the Week #5
+//
+// https://youtu.be/9hltevOHQBw
+//
+
 import 'package:flutter/material.dart';
 import 'package:gdl_watermark/gdl_watermark.dart';
 import 'package:google_fonts/google_fonts.dart';

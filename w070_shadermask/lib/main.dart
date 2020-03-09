@@ -1,3 +1,10 @@
+// ShaderMask
+//
+// Widget of the Week #70
+//
+// https://youtu.be/7sUL66pTQ7Q
+//
+
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
