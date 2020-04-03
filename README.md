@@ -18,7 +18,7 @@ Todo código sera dado de alta y este readme sera constantemente actualizado
 
 
 
-##  Safe Area
+##  Safe-Area
 
 Código ejemplo para aprender Safe Area en Flutter.
 Te recomendamos visitar el video de youtube para mas informacion:
