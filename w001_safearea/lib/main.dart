@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ? 'Disable Safe Area'
                   : 'Enable Safe Area')),
           Spacer(),
-          FlutterGdl.showBottomWatermark(),
+          FlutterGdl.showBottomWatermark(bottomPadding: false),
           Text(
             'Bottom Border',
           ),
