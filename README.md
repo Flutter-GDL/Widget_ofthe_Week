@@ -13,12 +13,12 @@ Todo código sera dado de alta y este readme sera constantemente actualizado
 
 ## Contenido
 
-- [w001_safearea] (#Safe-Area)
+- [w001_safearea](#SafeArea)
 
 
 
 
-##  Safe-Area
+##  SafeArea
 
 Código ejemplo para aprender Safe Area en Flutter.
 Te recomendamos visitar el video de youtube para mas informacion:
